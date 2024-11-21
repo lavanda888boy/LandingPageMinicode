@@ -1,0 +1,110 @@
+{
+  "offers": [
+    {
+      "id": 1,
+      "content": "Asigură-ți locuința atunci când pleci în vacanță!"
+    },
+    {
+      "id": 2,
+      "content": "Asigură-ți locuința atunci când pleci în vacanță!"
+    },
+    {
+      "id": 3,
+      "content": "Asigură-ți locuința atunci când pleci în vacanță!"
+    },
+    {
+      "id": 4,
+      "content": "Asigură-ți locuința atunci când pleci în vacanță!"
+    },
+    {
+      "id": 5,
+      "content": "Asigură-ți locuința atunci când pleci în vacanță!"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Vasile Moraru",
+      "rating": 4,
+      "content": "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi."
+    },
+    {
+      "id": 2,
+      "author": "Vasile Moraru",
+      "rating": 3,
+      "content": "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi."
+    },
+    {
+      "id": 3,
+      "author": "Vasile Moraru",
+      "rating": 5,
+      "content": "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi."
+    },
+    {
+      "id": 4,
+      "author": "Vasile Moraru",
+      "rating": 4,
+      "content": "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi."
+    },
+    {
+      "id": 5,
+      "author": "Vasile Moraru",
+      "rating": 3,
+      "content": "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi."
+    },
+    {
+      "id": 6,
+      "author": "Vasile Moraru",
+      "rating": 5,
+      "content": "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi."
+    },
+    {
+      "id": 7,
+      "author": "Vasile Moraru",
+      "rating": 4,
+      "content": "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi."
+    },
+    {
+      "id": 8,
+      "author": "Vasile Moraru",
+      "rating": 3,
+      "content": "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi."
+    },
+    {
+      "id": 9,
+      "author": "Vasile Moraru",
+      "rating": 5,
+      "content": "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi."
+    }
+  ],
+  "insurances": [
+    {
+      "id": 1,
+      "title": "Carte verde"
+    },
+    {
+      "id": 2,
+      "title": "RCA"
+    },
+    {
+      "id": 3,
+      "title": "Casco"
+    },
+    {
+      "id": 4,
+      "title": "Medicală"
+    },
+    {
+      "id": 5,
+      "title": "Accidente"
+    },
+    {
+      "id": 6,
+      "title": "Bunuri"
+    },
+    {
+      "id": 7,
+      "title": "Locuințe (imobile)"
+    }
+  ]
+}

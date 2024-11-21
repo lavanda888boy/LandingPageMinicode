@@ -1,0 +1,37 @@
+.contacte-container {
+  display: flex;
+  flex-direction: row;
+  gap: 130px;
+  height: 500px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 15%;
+  padding-right: 15%;
+  background-color: #a40731;
+  color: "white";
+}
+
+.contacte-container-enumeration {
+  display: flex;
+  flex-direction: column;
+  margin-top: 130px;
+
+  .contacte-container-items {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 30px;
+  }
+}
+
+.social-media-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.social-media-icon {
+  width: 32px;
+  height: 32px;
+  margin-right: 10px;
+}
